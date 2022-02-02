@@ -1,0 +1,13 @@
+.mainBlock {
+    display: flex;
+    flex-direction: column;
+    background: rgba(0,0,0, .1);
+    backdrop-filter: blur(7px);
+    font-size: 30px;
+    font-family: Hogwarts, sans-serif;
+    color: chocolate;
+    justify-content: center;
+    height: 250px;
+    width: 100%;
+    align-items: center;
+}

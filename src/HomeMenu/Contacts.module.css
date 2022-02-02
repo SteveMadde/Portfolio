@@ -1,0 +1,30 @@
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0, .1);
+    backdrop-filter: blur(7px);
+    font-size: 25px;
+    font-family: Hogwarts, sans-serif;
+    //font-family: "Candara Light", sans-serif;
+    color:bisque;
+    height: 750px;
+    width: 150px;
+}
+.p {
+    display: flex;
+    transform: rotate(90deg);
+    height: 50px;
+    margin-top: 100px;
+}
+.img {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-items: center;
+}
+.img2 {
+    height: 40px;
+    width: 40px;
+}

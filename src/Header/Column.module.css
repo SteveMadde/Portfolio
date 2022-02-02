@@ -1,0 +1,35 @@
+.column {
+    /*font-family: Hogwarts, sans-serif;*/
+}
+.name {
+    color: white;
+    font-size: 30px;
+    font-family: Hogwarts, sans-serif;
+}
+
+
+.img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.address {
+    font-family: Hogwarts, sans-serif;
+    color: #d9b8a5;
+    font-size: 30px;
+}
+
+.languages {
+    text-align: center;
+    font-size: 30px;
+    color: #d9b8a5;
+    font-family: "Candara Light", sans-serif;
+}
+
+
+
+.languagesBlock {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+}

@@ -1,13 +1,33 @@
 body {
+  padding: 10px;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #413d50;
+  background-image: url("https://kartinkin.net/uploads/posts/2021-04/thumbs/1618015295_10-p-garri-potter-khogvarts-fentezi-14.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Hogwarts ;
+  src: url("MagicSchoolOne.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: HogwartsTwo ;
+  src: url("MagicSchoolTwo.ttf");
+  font-weight: normal;
+  font-style: normal;
 }

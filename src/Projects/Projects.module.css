@@ -1,0 +1,16 @@
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: chartreuse;
+}
+.title {
+    text-align: center;
+    font-family: Hogwarts, sans-serif;
+    color: chocolate;
+    font-size: 40px;
+}
+.img {
+    height: 200px;
+    width: 200px;
+}
